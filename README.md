@@ -4,6 +4,6 @@ codes -> matlab codes to implement fusion methods specified in report.
 graphs -> resultant psnr and ssim values
 im -> sample dataset.
 im_fusion_dataset -> fused images
-reprts -> project report
+reports -> project report
     -> main.pdf(main report)
 a.txt -> wikipedia pages
